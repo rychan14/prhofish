@@ -1,0 +1,28 @@
+{
+  "name": "fbgraph",
+  "version": "0.0.1",
+  "author": "Ryan Chan",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.x",
+    "express3-handlebars": "*",
+    "mongodb": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-facebook": "*",
+    "passport-twitter": "*",
+    "fbgraph":"*",
+    "twit":"*",
+    "dotenv": "*",
+    "oauth": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rychan14/rhofish/git"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }  
+}
